@@ -1,5 +1,13 @@
 # @serverless-stack/cli2
 
+## 2.41.6
+
+### Patch Changes
+
+- [#3722](https://github.com/sst/sst/pull/3722) [`6f8fb48f`](https://github.com/sst/sst/commit/6f8fb48f2b6dd195a732114abf33bd4e9f68439f) Thanks [@adrianisk](https://github.com/adrianisk)! - Fix cacheTo Function/container prop
+
+- [#3762](https://github.com/sst/sst/pull/3762) [`17069475`](https://github.com/sst/sst/commit/17069475e073eb117327a27a6712e164d5fe64c2) Thanks [@lostra01](https://github.com/lostra01)! - Proxy issuer calls to avoid timeouts on unused auth adapters
+
 ## 2.41.5
 
 ### Patch Changes
