@@ -1,5 +1,13 @@
 # @serverless-stack/cli2
 
+## 2.43.2
+
+### Patch Changes
+
+- [#3776](https://github.com/sst/sst/pull/3776) [`75fde55f`](https://github.com/sst/sst/commit/75fde55fa81a4a2601f740a8812478d22fd0aca2) Thanks [@srodriki](https://github.com/srodriki)! - SST Node: Remove dependency between future/auth and old auth
+
+- [#3788](https://github.com/sst/sst/pull/3788) [`e88de771`](https://github.com/sst/sst/commit/e88de771d45ac4cf4cedde12a78b688c8de3a319) Thanks [@omikader](https://github.com/omikader)! - chore(auth): expose session.verify in non-future auth
+
 ## 2.43.1
 
 ### Patch Changes
